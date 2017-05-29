@@ -1,4 +1,5 @@
 <?php
+$a = 11;
 /**
  * CodeIgniter
  *
